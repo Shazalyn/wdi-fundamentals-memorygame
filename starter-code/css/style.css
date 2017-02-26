@@ -1,3 +1,13 @@
+.card {
+	height: 200px;
+	width: 150px;
+	border: 1px solid black;
+	background: yellow;
+	border-radius: 10px;
+	float: left;
+	margin: 5%;
+}
+
 nav {
 	background-color: #808080;
 }
@@ -52,12 +62,8 @@ a:hover {
 	display: inline-block;
 }
 
-.card {
+img {
 	height: 200px;
 	width: 150px;
-	border: 1px solid black;
-	background: yellow;
-	border-radius: 10px;
-	float: left;
-	margin: 5%;
 }
+
